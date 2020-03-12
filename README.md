@@ -1,2 +1,2 @@
 # sample
-this service is sample project
+this service is sample projects
